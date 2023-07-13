@@ -1,0 +1,59 @@
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem
+}
+
+.mr-2 {
+  margin-right: 0.5rem
+}
+
+.mt-3 {
+  margin-top: 0.75rem
+}
+
+.h-8 {
+  height: 2rem
+}
+
+.h-px {
+  height: 1px
+}
+
+.w-8 {
+  width: 2rem
+}
+
+.flex-1 {
+  flex: 1 1 0%
+}
+
+.flex-row {
+  flex-direction: row
+}
+
+.items-center {
+  align-items: center
+}
+
+.rounded-full {
+  border-radius: 9999px
+}
+
+.bg-gray-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity))
+}
+
+.bg-gray-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 114 128 / var(--tw-bg-opacity))
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem
+}
+
+.font-bold {
+  font-weight: 700
+}
